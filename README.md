@@ -55,7 +55,7 @@ Only use photos with the needed permissions for patients, learners, and colleagu
 
 ## Please confirm before sharing widely
 
-- [ ] **Click two video links once.** "Jump Simulation: Celebrating 10 Years" (youtube.com/watch?v=T_xs_5bGkYY) and "Panel Discussion on the Future of Medicine" (youtube.com/watch?v=rQSqXZ9joJ4) could not be checked automatically. The other seven media links were confirmed.
+- [ ] **Confirm one video link.** "Jump Simulation: Celebrating 10 Years" (youtube.com/watch?v=T_xs_5bGkYY) could not be checked automatically. The Future of Medicine panel was removed because it does not feature John.
 - [ ] **The federal funder of the 2008 consensus conference.** The site says "federally funded." Naming the agency (for example, AHRQ) would be stronger.
 - [ ] **The public contact email.** The site uses John.A.Vozenilek@jumpsimulation.org. Switch to john@drvoz.com if you prefer a personal address.
 - [ ] **Jump role wording.** The site says you have "led simulation and innovation at Jump since 2012," and does not use the Executive Director title.
