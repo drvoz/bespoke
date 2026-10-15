@@ -60,7 +60,7 @@ Only use photos with the needed permissions for patients, learners, and colleagu
 - [ ] **Confirm one video link.** "Jump Simulation: Celebrating 10 Years" (youtube.com/watch?v=T_xs_5bGkYY) could not be checked automatically. The Future of Medicine panel was removed because it does not feature John.
 - [ ] **The federal funder of the 2008 consensus conference.** The site says "federally funded." Naming the agency (for example, AHRQ) would be stronger.
 - [ ] **The public contact email.** The site uses John.A.Vozenilek@jumpsimulation.org. Switch to john@drvoz.com if you prefer a personal address.
-- [ ] **Jump role wording.** The site says you have "led simulation and innovation at Jump since 2012," and does not use the Executive Director title.
+- [x] **Jump role wording.** Confirmed from the October 2026 résumé: Executive Director, Jump Trading Simulation & Education Center, 2012–present. The site now uses the title.
 - [ ] **"Seven papers" in the November 2008 issue of *Academic Emergency Medicine*.** This was counted from the CV.
 - [ ] **Immersive visits.** Confirm Jump can host external executive cohorts for one to three days.
 - [ ] **Language.** The kit says you present in English and that sessions work with simultaneous interpretation. Add Spanish if applicable.
