@@ -42,7 +42,7 @@ body{
   font-family:"Archivo",system-ui,-apple-system,sans-serif;
   font-size:16.5px; line-height:1.62; -webkit-font-smoothing:antialiased;
 }
-img{max-width:100%; display:block;}
+img{max-width:100%; height:auto; display:block;}
 a{color:var(--cognac); text-decoration-thickness:1px; text-underline-offset:3px;}
 a:hover{color:var(--orange-lo);}
 :focus-visible{outline:2px solid var(--orange); outline-offset:3px; border-radius:4px;}
