@@ -16,6 +16,7 @@ Live at **https://drvoz.github.io/bespoke/** once GitHub Pages is on.
 ```
 index.html                          The reveal: positioning, four offerings, formats, engagements
 journey.html                        The career arc, starting from the 2008 inception story
+patient-safety.html                 Patient safety journey: three lenses (Ericsson, Klein, Wears), filterable timeline, Oli case
 topics/what-must-stay-human.html    01 · Human judgment & AI (lead topic)
 topics/designing-experience.html    02 · Simulation, serious games, behavioral engineering
 topics/space-as-leadership.html     03 · Learning spaces and experiential territory
@@ -42,6 +43,7 @@ All photos live in `assets/img/`.
 | `oncall-exhibit.jpg` | 03 · Learning spaces |
 | `arches-symposium.jpg` | 04 · Blood–brain barrier |
 | `tedx-stage.jpg` | TEDx video thumbnail, home page |
+| `oli-control-room.jpg` | Patient safety · Oli case |
 
 **Optional additions.** These slots stay hidden until you add the file:
 - `iai-network.png`: a screenshot of the collaboration network from the IAI dashboard, with names hidden. It appears on the 04 page.

@@ -70,13 +70,13 @@ a:hover{color:var(--orange-lo);}
 .toggle:hover{border-color:var(--brand); color:var(--brand);}
 .subnav{border-bottom:1px solid var(--hair); background:var(--ground);}
 .subnav ul{
-  list-style:none; margin:0 auto; padding:0 clamp(16px,4vw,44px); max-width:1180px;
+  list-style:none; margin:0 auto; padding:0 clamp(16px,3vw,32px); max-width:1320px; justify-content:safe center;
   display:flex; gap:4px; overflow-x:auto; scrollbar-width:none;
 }
 .subnav ul::-webkit-scrollbar{display:none;}
 .subnav a{
-  display:block; padding:12px 12px 11px; white-space:nowrap; text-decoration:none;
-  font-family:"JetBrains Mono",monospace; font-size:11.5px; letter-spacing:.08em; text-transform:uppercase;
+  display:block; padding:12px 10px 11px; white-space:nowrap; text-decoration:none;
+  font-family:"JetBrains Mono",monospace; font-size:11.5px; letter-spacing:.06em; text-transform:uppercase;
   color:var(--ink-soft); border-bottom:2px solid transparent;
 }
 .subnav a:hover{color:var(--ink);}
@@ -355,3 +355,6 @@ footer.site .src .two{color:var(--orange);}
 .still{margin:16px 0 0; max-width:620px;}
 .still img{width:100%; border-radius:var(--radius); border:1px solid var(--hair);}
 .still figcaption{font-size:13.5px; color:var(--ink-faint); margin-top:8px; font-style:italic; font-family:"Fraunces",Georgia,serif;}
+
+/* Mobile nav: fade on the right edge signals more items */
+@media (max-width:1100px){ .subnav{position:relative;} .subnav::after{content:""; position:absolute; top:0; right:0; bottom:1px; width:36px; pointer-events:none; background:linear-gradient(90deg, transparent, var(--ground));} }
