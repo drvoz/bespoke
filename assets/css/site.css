@@ -157,8 +157,10 @@ p{margin:0 0 14px;}
 .stat .v small{font-size:.55em; color:var(--orange-lo);}
 .stat .l{font-size:13px; color:var(--ink-soft); line-height:1.35; margin-top:8px;}
 
-/* ---------- The thread (four boundaries) ---------- */
+/* ---------- The thread (five boundaries) ---------- */
 .thread{display:grid; grid-template-columns:repeat(2,1fr); gap:14px;}
+.offer.wide{grid-column:1 / -1;}
+.offer.wide p{max-width:72ch;}
 .offer{
   position:relative; display:flex; flex-direction:column; text-decoration:none; color:inherit;
   background:var(--panel); border:1px solid var(--hair); border-radius:var(--radius);

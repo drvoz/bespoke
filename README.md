@@ -14,13 +14,14 @@ Live at **https://drvoz.github.io/bespoke/** once GitHub Pages is on.
 ## Structure
 
 ```
-index.html                          The reveal: positioning, four offerings, formats, engagements
+index.html                          The reveal: positioning, five offerings, formats, engagements
 journey.html                        The career arc, starting from the 2008 inception story
 patient-safety.html                 Patient safety journey: three lenses (Ericsson, Klein, Wears), filterable timeline, Oli case
 topics/what-must-stay-human.html    01 · Human judgment & AI (lead topic)
 topics/designing-experience.html    02 · Simulation, serious games, behavioral engineering
 topics/space-as-leadership.html     03 · Learning spaces and experiential territory
 topics/blood-brain-barrier.html     04 · Clinical–academic partnership method
+topics/advisory-translation.html    05 · Advisory: clinical needs to products, mentoring academic and commercial teams
 kit.html                            Speaker kit: downloads, watch & listen, bios with copy buttons, intro, abstracts, logistics
 downloads/                          One-sheet PDF, program menu PDF, bios DOCX/TXT, full kit ZIP
 assets/css/site.css                 Shared styles (mu2sd palette and type)
